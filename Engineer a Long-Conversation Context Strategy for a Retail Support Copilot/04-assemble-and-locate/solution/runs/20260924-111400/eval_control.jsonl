@@ -1,0 +1,2 @@
+{"question_id": "Q1", "question": "What was the actual refund amount processed for order ORD-77310?", "expected_fragment": "22.14", "model_answer": "unknown", "passed": false, "input_tokens": 19664, "output_tokens": 5}
+{"question_id": "Q6", "question": "What is the structured status of the payment-method update issue (use the exact status token from the case record, not a paraphrase)?", "expected_fragment": "in_progress", "model_answer": "unknown", "passed": false, "input_tokens": 19664, "output_tokens": 5}

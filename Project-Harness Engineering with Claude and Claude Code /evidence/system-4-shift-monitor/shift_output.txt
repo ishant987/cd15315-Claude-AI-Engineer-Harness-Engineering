@@ -1,0 +1,4 @@
+2026-09-24 11:10:32,370 shift_monitor.pipeline INFO run_shift start: shift=C since=2026-09-23T21:40:32Z
+2026-09-24 11:10:32,373 shift_monitor.pipeline INFO run_shift done: shift=C new=0
+shift C: 0 new defects
+Shift C 2026-04-30: 3 high + 2 medium defects on capacitor-bank-C-7, all from lot 2026-0430-B (DAR 0.39, ESR ~19 mOhm); 1 low VP-4 vent squeal (repeat). Lot quarantine recommended.
